@@ -1,1 +1,1 @@
-# CTF-WRITEUPS
+# cybersec-writeups
